@@ -7,7 +7,7 @@
 // Sono stati creati due oggetti.
 
 // Code Question 3
-// Sono stati creati 3 oggetti.
+// Sono stati creati 9 oggetti, includendo gli oggetti annidati.
 
 // Code Question 4
 // Per clonare l'oggetto chef, la scelta migliore è utilizzare lo spread(...), in quanto non ci sono oggetti annidati (che non verrebero copiati), ma invece è presente una funzione, che invece verrà copiata.
