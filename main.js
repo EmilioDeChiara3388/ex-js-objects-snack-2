@@ -16,7 +16,7 @@
 // Code Question 5
 // console.log(hamburger.maker.name); => "Chef Hyur";
 // console.log(secondBurger.maker.name); => "Chef Hyur";
-// console.log(hamburger.maker.restaurant.name); => "Hyur's Burgers";
+// console.log(hamburger.maker.restaurant.name); => "Hyur's II";
 // console.log(secondBurger.maker.restaurant.name); => "Hyur's II";
-// Sono stati creati 2 oggetti: hamburger (quello di partenza) e secondBurger. E' stato creato anche newRestaurant, ma si tratta di un oggetto annidato all'interno dell'oggetto hamburger di partenza.
+// Sono stati creati 5 oggetti: hamburger (quello di partenza) con i due oggetti annidati (maker e reaturant), secondBurger (che non include gli oggetti annidati), e newRestaurant, ma si tratta di un oggetto annidato all'interno dell'oggetto hamburger di partenza.
 
